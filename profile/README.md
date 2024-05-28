@@ -5,4 +5,7 @@ The project Movement, Digital Intelligence and Interactive Audience (MODINA) aim
 
 On our GitHub, we host software tools created during the residencies. More to come!
 
-[project website modina.eu](https://modina.eu/)
+## Links
+
+* [modina.eu](https://modina.eu/)
+* [YouTube](https://www.youtube.com/@modina_eu)
